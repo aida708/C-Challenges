@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "type": "shell",
+      "command": "gcc",
+      "args": [
+        "-o",
+        "${workspaceFolder}/outdebug", // Output file (outdebug.exe)
+        "${workspaceFolder}/main.c" // Your source file (main.c)
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"],
+      "detail": "Generated task to build C program"
+    }
+  ]
+}
