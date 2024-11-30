@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/behar/OneDrive/Desktop/C-challenges",
-      "program": "c:/Users/behar/OneDrive/Desktop/C-challenges/build/Debug/outDebug",
+      "cwd": "c:/Users/behar/OneDrive/Desktop/C-challenges/Pointers",
+      "program": "c:/Users/behar/OneDrive/Desktop/C-challenges/Pointers/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
