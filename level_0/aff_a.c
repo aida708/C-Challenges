@@ -6,7 +6,7 @@
 /*   By: <your_name> <your_email>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: YYYY/MM/DD HH:MM:SS by <Aida>      #+#    #+#             */
-/*   Updated: YYYY/MM/DD HH:MM:SS by <your_name>     ###   ########.fr       */
+/*   Updated: YYYY/MM/DD HH:MM:SS by <Sufaj>     ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
